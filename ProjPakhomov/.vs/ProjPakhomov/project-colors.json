@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "32ef7ef8-af38-4d8e-b54d-fb2e0c2b5719": {
+      "ProjectGuid": "32ef7ef8-af38-4d8e-b54d-fb2e0c2b5719",
+      "DisplayName": "ProjPakhomov",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
